@@ -8,3 +8,4 @@
 ## How to use
 
 * ***Terminal_password_checker*** - _>> python3 checkpass.py password1 password2 password3..._
+![Terminal_password_checker_screenshot](https://i.ibb.co/Pg0Zvwx/Screenshot-from-2021-06-06-11-15-45.png)
